@@ -2,7 +2,7 @@
 <h3 align="center">SOFTWARE TESTER</h3>
 <img align="right" alt = "Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
-- 🔭 I’m currently working on [Techno Study](https://techno.study/)
+- 🔭 I worked at [Techno Study](https://techno.study/)
 
 - 🌱 I’m currently learning **CUCUMBER , TESTNG**
 
